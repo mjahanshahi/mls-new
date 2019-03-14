@@ -1,0 +1,40 @@
+baseURL = "https://metalogicalsolutions.netlify.com"
+languageCode = "en-us"
+title = "Meta-Logical Solutions"
+themesDir = "./themes"
+theme = "hugo-serif-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "A consultancy business offering technical training and consulting services to the Metallurgical industry."
+    meta_og_title = "Meta-Logical Solutions"
+    meta_og_type = "website"
+    meta_og_url = "https://metalogicalsolutions.netlify.com"
+    meta_og_image = ""
+    meta_og_description = "A consultancy business offering technical training and consulting services to the Metallurgical industry."
+    #meta_twitter_card = "summary"
+    #meta_twitter_site = "@zerostaticio"
+    #meta_twitter_creator = "@zerostaticio"
+
+
+[[menu.main]]
+  name = "Expertise"
+  url = "/expertise/"
+  weight = 1
+
+[[menu.main]]
+  name = "Team"
+  url = "/team/"
+  weight = 2
+
+[[menu.main]]
+  name = "Services"
+  url = "/services/"
+  weight = 3
+	
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4

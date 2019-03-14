@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Meta-Logical Solutions</title>
+    <link>/services/</link>
+    <description>Recent content in Services on Meta-Logical Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>​Towards Zero Waste</title>
+      <link>/services/towards-zero-waste/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/towards-zero-waste/</guid>
+      <description>We advise on efficient use of resources and renewable carbonaceous fuels in metallurgical processes.</description>
+    </item>
+    
+    <item>
+      <title>​Feasibility Studies</title>
+      <link>/services/feasibility-studies/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/feasibility-studies/</guid>
+      <description>We help companies develop and evaluate energy efficient process flowsheets for the lower-grade ores of the future.</description>
+    </item>
+    
+    <item>
+      <title>​Process Modelling</title>
+      <link>/services/process-modelling/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/process-modelling/</guid>
+      <description>We help optimize metallurgical performance, management of impurities, metal recovery, refractory life and fuel consumption.</description>
+    </item>
+    
+    <item>
+      <title>​Sustainability Assessments</title>
+      <link>/services/sustainability-assessments/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/sustainability-assessments/</guid>
+      <description>We facilitate assessment of industrial ecology and sustainability.</description>
+    </item>
+    
+  </channel>
+</rss>

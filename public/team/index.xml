@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Meta-Logical Solutions</title>
+    <link>/team/</link>
+    <description>Recent content in Team on Meta-Logical Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sharif Jahanshahi PhD, DIC</title>
+      <link>/team/sharif-jahanshahi/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/sharif-jahanshahi/</guid>
+      <description>With over 30 years experience in R&amp;amp;D across the high temperature processing of ferrous and base metals, covering the thermodynamics metallurgical systems, process modelling and development. Sharif has been closely connected with the leading edge of process metallurgy R&amp;amp;D and the people that drive it.
+Sharif is a Fellow of Australasian Institute of Mining Metallurgy, Adjunct Professor at the University of New South Wales and Associate Editor of the Journal of Sustainable Metallurgy.</description>
+    </item>
+    
+    <item>
+      <title>Pari Osivand PhD, DEnvSc</title>
+      <link>/team/pari-osivand/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/pari-osivand/</guid>
+      <description>Pari is a biochemist by training and has extensive research experience in various aspects of algae growth, including nutrient accumulation and transfer in biomass species. She has also worked on research projects ranging from identifying the Ross River virus to cheese-making bacteria, through a number of universities and research institutes in Australia and the UK.
+As an environmental scientist, Pari acquired a deep understanding of the dimensions, complexities and relationships between the physical, human and environmental world.</description>
+    </item>
+    
+    <item>
+      <title>Collaborators</title>
+      <link>/team/collaborators/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/collaborators/</guid>
+      <description>Over the years and through many collaborative projects, we have developed an extensive network of experts, which covers engineering firms and R&amp;amp;D centres in Australia, Europe, South Africa, North America and Japan. Engagement of key engineers/scientists with complementary expertise could thus be readily arranged when the need arises.</description>
+    </item>
+    
+  </channel>
+</rss>
