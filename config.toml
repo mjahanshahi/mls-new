@@ -12,7 +12,7 @@ theme = "hugo-serif-theme"
     meta_og_title = "Meta-Logical Solutions"
     meta_og_type = "website"
     meta_og_url = "https://metalogicalsolutions.netlify.com"
-    meta_og_image = ""
+    meta_og_image = "favicon.png"
     meta_og_description = "A consultancy business offering technical training and consulting services to the Metallurgical industry."
     #meta_twitter_card = "summary"
     #meta_twitter_site = "@zerostaticio"
@@ -33,8 +33,13 @@ theme = "hugo-serif-theme"
   name = "Services"
   url = "/services/"
   weight = 3
+  
+[[menu.main]]
+  name = "Training"
+  url = "/training/"
+  weight = 4
 	
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 4
+  weight = 5

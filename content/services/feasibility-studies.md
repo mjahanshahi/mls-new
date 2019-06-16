@@ -1,5 +1,5 @@
 ---
-title: '​Feasibility Studies'
+title: 'Feasibility Studies'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/noun_Recycle_1539079_F5D327.svg'
 featured: true
