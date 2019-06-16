@@ -4,5 +4,5 @@
 
 [build.environment]
   HUGO_VERSION = "0.51"
-  HUGO_THEME = "hugo-serif"
+  HUGO_THEME = "hugo-serif-theme"
   HUGO_BASEURL = "https://hugo-serif.netlify.com/"
