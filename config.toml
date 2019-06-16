@@ -1,7 +1,7 @@
-baseURL = "https://metalogicalsolutions.netlify.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Meta-Logical Solutions"
-#themesDir = "./themes"
+themesDir = "themes"
 theme = "hugo-serif-theme"
 
 [params]
