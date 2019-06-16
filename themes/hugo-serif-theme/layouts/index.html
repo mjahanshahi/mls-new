@@ -24,19 +24,6 @@
 </div>
 
 <div class="container pt-2">
-  <div class="call">
-    <div class="call-box-top">
-      <div class="call-phone"><strong>Phone: </strong> {{ .Site.Data.contact.phone }} </div>
-      <div class="call-email"><strong>Email: </strong>
-        <a href="mailto:{{ .Site.Data.contact.email }}">
-          {{ .Site.Data.contact.email }}
-        </a>
-      </div>
-    </div>
-    <div class="call-box-bottom">
-      <a href="{{ .Site.BaseURL }}contact" class="button">Contact</a>
-    </div>
-  </div>
 </div>
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
@@ -59,7 +46,7 @@
 </div>
 {{end}}
 
-<div class="strip strip-grey">
+<div class="strip strip-blue">
 <div class="container pt-5 pb-5 pt-md-8 pb-md-8">
   <div class="row justify-content-center">
     <div class="col-12">

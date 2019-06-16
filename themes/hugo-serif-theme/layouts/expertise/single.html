@@ -1,0 +1,27 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-expertise-single{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="expertise expertise-single">
+        <h1 class="title">{{.Title}}</h1>
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ $library := resources.Get "js/libs/library.js" }}
+{{ $expertise := resources.Get "js/pages/expertise.js" }}
+{{ $expertiseJS := slice $library $expertise |resources.Concat "js/expertise.js" }}
+{{ if .Site.IsServer }}
+  <script type="text/javascript" src="{{ $expertiseJS.RelPermalink }}"></script>
+  {{ else }}
+  <script type="text/javascript" src="{{ ($expertiseJS | minify | fingerprint).RelPermalink }}"></script>
+  {{ end }}
+{{ end }}
