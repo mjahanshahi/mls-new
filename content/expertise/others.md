@@ -8,6 +8,14 @@ draft: false
 
 ## Publications
 
+- J. Yang, G. Zhang, O. Ostrovski, S. Jahanshahi; Selective reduction of an Australian garnieritic laterite ore, Minerals Engineering 131, 79-89
+
+- X. Xing, S. Jahanshahi, J. Yang, O Ostrovski; Dissolution of carbon from coke and char in liquid Fe-C alloys, Archives of Materials Science and Engineering 91, (1) 2018
+
+- Y. Cui, G. Zhang, S. Jahanshahi, . Ostrovski; Carbonylation of nickel and selectively reduced laterite or, Journal of the Southern African Institute of Mining and Metallurgy 118, (6), 2018
+
+- Y. Cui, G. Zhang, S. Jahanshahi and O. Ostrovski; Carbonylation of nickel and selectively reduced laterite ore, Journal of South African Institute of Mining and Metallurgy 116, 1-6, 2018
+
 - Jahanshahi, S., and Jeffes, J.H.E. (1981), "Design of Coils for Levitating Droplets of Metals with Improved Temperature Control Characteristics" Trans IMM Sec. C, 1981, Vol. 90, pp. C138-C140.
 
 - Yang, J., Zhang, G., Jahanshahi, S. and Ostrovski, O. (2015) Reduction of a garnieritic laterite ore by CO-CO2 gas mixtures, The Fourteenth International Ferroalloys Congress, INFACON XIV, Kiev, Ukraine, May 31-June 4, 2015, Vol. 2, 518-527.

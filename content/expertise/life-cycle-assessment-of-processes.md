@@ -5,6 +5,7 @@ image: '/services/default.png'
 featured: true
 draft: false
 ---
+The use of LCA in the evaluation of processes has become popular and has led to the identification of opportunities for the development of sustainable technologies. Some examples of these assessments and opportunities are presented in the publications listed below:
 
 ## Research Highlights
 

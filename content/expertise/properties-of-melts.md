@@ -117,6 +117,7 @@ This includes research covering the thermodynamics of melts, transport propertie
 - Jahanshahi, S., and Wright, S. (1993). Redox equilibria in Al2O3-CaO-FeOx - SiO2 and Al2O3-CaO-FeOx-MgO-SiO2 slags. ISIJ International, 33 (1): 195-203. 
 
 ## Transport Properties of Slags
+- S. Maroufi, S. Amini, S. Jahanshahi, O. Ostrovski; Diffusion Coefficients and Structural Parameters of Molten Slags, Advances in Molten Slags, Fluxes, and Salts: Proceedings of The 10th, 1, 2016.
 
 - Maroufi, Samane; Sun, Shouyi; Ostrovski, Oleg; Ciezki, George and Jahanshahi, Sharif,  Dissolution Rate and Diffusivity of Silica in SiMn Slag, Met & Mat Trans B, 2015, 46B (1), 101-108.
 

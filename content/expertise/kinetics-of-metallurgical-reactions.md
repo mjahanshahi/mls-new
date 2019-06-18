@@ -7,7 +7,9 @@ draft: false
 weight: 1
 ---
 
-Some basic information here.
+The rate of pyrometallurgical processes is often controlled by mass transfer in the condensed and/or gaseous phases. In some instances, the kinetics of reactions at interfaces play a more significant role in determining the overall rate.  
+
+Fundamental studies on the kinetics of reactions between carbonaceous reactants and molten slags or alloys have led to the development of a body of knowledge and an improved understanding of processes. Such knowledge and fundamental undersatnding could readily be used to assess and optimise the performance of pyrometallurgical processes.
 
 ## Research Highlights
 
@@ -19,11 +21,13 @@ Some basic information here.
 
 ## All Publications
 
+- S. Jahanshahi, S. Wright; Kinetics of Reduction of CaO-FeOx-MgO-PbO-SiO2 Slags by CO-CO2 Gas Mixtures, Metallurgical and Materials Transactions B 48 (4), 2057-2066, 2017.
+
 - Sun, S. Y., and Jahanshahi, S. (2000). Redox equilibria and kinetics of gas-slag reactions. Metallurgical and Materials Transactions B - Process Metallurgy and Materials Processing Science, 31 (5): 937-943.
 
 - Sayadyaghoubi, Y., Wright, S., Sun, S. Y., and Jahanshahi, S. (1993). Aspects of rate processes in smelting. Chemical Engineering in Australia, 18 (3): 15-18.
 
-- Jahanshahi, S. and Jeffes. J. H. E. (1983)"The Vaporisation of Iron-phosphorus Alloys in Gases of Various Oxygen Potentials" Ironmaking and Steelmaking, , Vol. 10, pp. 155-160.
+- Jahanshahi, S. and Jeffes, J. H. E. (1983)"The Vaporisation of Iron-phosphorus Alloys in Gases of Various Oxygen Potentials" Ironmaking and Steelmaking, , Vol. 10, pp. 155-160.
 
 - Sun, S. Y., and Jahanshahi, S. (2000). Redox equilibria and kinetics of gas-slag reactions. Belton Memorial Symposium proceedings, 123-133.
 

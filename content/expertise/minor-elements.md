@@ -1,5 +1,5 @@
 ---
-title: 'Minor Elements'
+title: 'Management of Minor Elements'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/default.png'
 featured: true
@@ -7,7 +7,7 @@ draft: false
 weight: 1
 ---
 
-Management of Minor Elements & Value Recovery from Low Grade Ores & By-products
+Impurities in raw materials used in the production of metals can be valuable, toxic and hazardous or a nuisance. Current knowledge and understanding of the behaviour of many of the minor elements in high-temperature phases could be readily used to develop practices for managing the deportment of the minors elements to the phases. Recently, we have been successful in managing the extraction and safe disposal of naturally occurring radioactive materials found in Australian ores.
 
 ## Research Highlights
 
@@ -16,16 +16,17 @@ Management of Minor Elements & Value Recovery from Low Grade Ores & By-products
 - Norgate, T. E. and Jahanshahi, S.  (2010). Low grade ores - smelt, leach or concentrate? Minerals Engineering; 23 (2), 65-73. 
 
 ## All Publications
+- R.C. West, A.R. Gee, S. Sun and S. Jahanshahi; Removal of radioactive impurities from a copper ore or copper concentrate during or after smelting; Australian Patent, WO14/040,140, 2014.
 
 -	Wright S, Sun S, Jahanshahi S. Development of a Suitable Slag Practice for Valorization of Fluorine-Containing Slags. J Sustain Metall [Internet]. 2017;3(3):515–27. Available from: http://link.springer.com/10.1007/s40831-017-0119-3
 
-=	Somerville, M., Davidson, R., Wright, S., and Jahanshahi, S.; Liquidus- and Primary-Phase Determinations of Slags Used in the Processing of Spent Pot Lining, Journal of Sustainable Metallurgy, 2016, December, pp. 1-9, DOI: 10.1007/s40831-016-0109-x
+=	Somerville, M., Davidson, R., Wright, S., and Jahanshahi, S.; Liquidus- and Primary-Phase Determinations of Slags Used in the Processing of Spent Pot Lining, Journal of Sustainable Metallurgy, 2016, December, 1-9, DOI: 10.1007/s40831-016-0109-x
 
 - Chen, C., Zhang, L., Jahanshahi, S. (2010) Thermodynamic modeling of arsenic in copper smelting processes. Metallurgical and Materials Transactions B, 41(6), 1175-1185.
 
 - Chen, C., Zhang, L., Wright, S., and Jahanshahi, S. (2006) Thermodynamic modelling of minor elements in copper smelting processes. In: F. Kongoli, and R. G. Reddy; Sohn International Symposium on Advanced Processing of Metals and Materials: Principles, Technologies and Industrial Practices, 335-348.
 
-- Maroufi, S., Ciezki, G., Jahanshahi, S. and Ostrovski, O., Characterisation and reduction of ironstone ore by CO gas, Mineral Processing and Extractive Metallurgy (TIMM C), 2016, 125:2, pp. 95-102, DOI: 10.1080/03719554.2016.1160608
+- Maroufi, S., Ciezki, G., Jahanshahi, S. and Ostrovski, O., Characterisation and reduction of ironstone ore by CO gas, Mineral Processing and Extractive Metallurgy (TIMM C), 2016, 125:2, 95-102, DOI: 10.1080/03719554.2016.1160608.
 
 - Maroufi, S., Ciezki, G., Jahanshahi, S. and Ostrovski, O., Carbothermal Reduction of Iron and Silicon Oxides in Ironstone Ore, Mineral Processing and Extractive Metallurgy (TIMM C), 2016, 125:2, 86-94, DOI: 10.1080:037195532.2016.1156800.
 
@@ -43,9 +44,9 @@ Management of Minor Elements & Value Recovery from Low Grade Ores & By-products
 
 - Jahanshahi, S., Bruckard, W. J., and Somerville, M. A. (2007) Towards zero waste and sustainable resource processing. In: International Conference on Processing and Disposal of Mineral Industry Waste 2007 (PDMIW'07), 14-15 June 2007, Falmouth, UK.  CD-ROM: 1-15.
 
-- Wright, S., Jahanshahi, S., and Errington, W. J. (1993). An investigation of the reduction of battery paste (Al2O3-As2O3-CaO-FeO-Fe2-PbO-Sb2O3-SiO2) slags with graphite. In: J. Hager, and others (Editors), Extraction and Processing for the Treatment and Minimization of Wastes, 11-22
+- Wright, S., Jahanshahi, S., and Errington, W. J. (1993). An investigation of the reduction of battery paste (Al2O3-As2O3-CaO-FeO-Fe2-PbO-Sb2O3-SiO2) slags with graphite. In: J. Hager, and others (Editors), Extraction and Processing for the Treatment and Minimization of Wastes, 11-22.
 
-- Jahanshahi, S., Jorgensen, F.R.A, Moyle, F.J., Zhang, L. The safe disposal of toxic elements in slags. In: Nilmani, M.//Lehner, T.//Rankin, W.J. Editors, editor/s. Pyrometallurgy for Complex Materials and Wastes. Warrendale: TMS; 1994. 105-119.
+- Jahanshahi, S., Jorgensen, F.R.A, Moyle, F.J., Zhang, L. The safe disposal of toxic elements in slags. In: Nilmani, M.Lehner, T.Rankin, W.J. Editors, editor/s. Pyrometallurgy for Complex Materials and Wastes. Warrendale: TMS; 1994. 105-119.
 
 - Jorgensen, F. R. A., Jahanshahi, S., Moyle, F. J., and Zhang, L. (1994). The safe disposal of arsenic in metallurgical slags. In: 2nd National Hazardous Waste Convention, 405-412.
 

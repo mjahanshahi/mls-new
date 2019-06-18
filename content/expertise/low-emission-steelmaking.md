@@ -5,6 +5,9 @@ image: '/services/default.png'
 featured: true
 draft: false
 ---
+
+This collaborative R&D program was aimed at the development of breakthrough technologies to enable the steel industry to cut its GHG emission by over 50%. We identified the most effective and economical methods for reducing the net CO2 emissions by 50% or more for the Australian steel industry.
+
 ## Research Highlights
 
 - Jahanshahi, S., Mathieson, J.G., Somerville, M.A., Haque, N., Norgate, T.E., Deev, A., Pan, Y., Xie, D., Ridgeway, P. and Zulli, P., (2015) Development of Low-Emission Integrated Steelmaking Process, J. Sustain. Metall., DOI 10.1007/s40831-015-0008-6.
@@ -12,7 +15,11 @@ draft: false
 - Jahanshahi, S and Xie, D (2012) Current status and future direction of CSIRO's dry slag granulation process with waste heat recovery. In: 5th International Congress on the Science and Technology of Steelmaking 2012 (ICS 2012); 1-3 October 2012; Dresden, Germany. ICS 2012 Organisers; 2012. 9p. CD ROM
 
 ## All Publications
- 
+
+- S. Jahanshahi, J. Mathieson, H. Reimink; Low Emission Steelmaking, Sustainable Metallurgy, DOI 10.1007/s40831-016-0065-5, 6, 2016
+
+- M. Somerville, S. Jahanshahi; The effect of temperature and compression during pyrolysis on the density of charcoal made from Australian eucalypt wood; Renewable energy 80, 471-478, 29, 2015
+
 - Mathieson, J.G, Somerville, M.A, Deev, A. and Jahanshahi, S. (2015). Chapter 19: “Utilization of biomass as an alternative fuel in ironmaking”, in Iron Ore Mineralogy, Processing and Environmental Sustainability, pp.581-614, Edited by Liming Lu, Woodhead publishing series in Metals and Surface Engineering, UK.
 
 - Jahanshahi, S., Mathieson, J.G., and Reimink, H. Low Emission Steelmaking, Journal of Sustainable Metallurgy, 2016, June, pp 1-6, DOI 10.1007/s40831-016-0065-5.

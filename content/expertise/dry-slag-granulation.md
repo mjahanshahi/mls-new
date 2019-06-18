@@ -6,6 +6,10 @@ featured: true
 draft: false
 ---
 
+Granulation of molten metallurgical slags is a value-adding process that converts a low-value by-product (and sometimes waste) into a saleable product with multiple uses by the building and construction industries. Dry granulation of slags is an emerging sustainable technology that can reduce energy consumption and GHG emission as well as avoiding consumption of huge volume of water and emission of sulphurous containing gases.  
+
+We have been active in this area for over a decade and have collaborated with the industry in both the development and assessment of technologies.  
+
 ## Research Highlights
 
 ## All Publications

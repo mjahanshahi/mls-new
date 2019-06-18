@@ -5,6 +5,9 @@ image: '/services/default.png'
 featured: true
 draft: false
 ---
+
+In many pyrometallurgical processes, the behaviour of the molten slag phase plays a significant role in the metallurgical performance of the process. Over the past few decades, some advanced models of the physicochemical properties of molten slags, as well as thermodynamics of complex melts have been developed and validated against experimental data. Through combining some of these mathematical models, one can simulate reactions in smelting and refining processes and develop practices to improve their performance.
+
 ## Research Highlights
  
 - Pan, Yuhua, Sun, Shouyi, Jahanshahi, Sharif  (2011) Mathematical modelling of heat transfer in six-in-line electric furnaces for sulphide smelting, Journal of the South African Institute of Mining and Metallurgy, 111 (10), 717-732.
