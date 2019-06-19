@@ -12,6 +12,14 @@ We have been active in this area for over a decade and have collaborated with th
 
 ## Research Highlights
 
+- M. Barati and S. Jahanshahi; Dry Granulation and Heat Recovery from Metallurgical Slags; Proceedings of the 6th Slag Valorisation Symposium, 1-5 April, 2019, Mechelen, Belgium, 291-313.
+
+- S. Jahanshahi, Y. Pan and D. Xie; Some fundamental aspects of the dry slag granulation process. In: 9th International Conference on Molten Slags, Fluxes and Salts (MOLTEN12); 27-30 May 2012; Beijing, China. Chinese Society for Metals; 2012. 12p. CD ROM.
+
+- S. Jahanshahi and D. Xie; Current status and future direction of CSIRO's dry slag granulation process with waste heat recovery. In: 5th International Congress on the Science and Technology of Steelmaking 2012 (ICS 2012); 1-3 October 2012; Dresden, Germany. ICS 2012 Organisers; 2012. 9p. CD ROM.
+
+- T. Norgate, D. Xie and S. Jahanshahi; Economic and environmental evaluation of slag dry granulation. In: SCANMET IV - 4th International Conference on Process Development in Iron and Steelmaking; 10-13 June 2012; Lulea, Sweden. Lulea, Sweden: SCANMET Organisers; 2012. 10p. CD ROM.
+
 ## All Publications
 
 - Jahanshahi, S., Mathieson, J.G., Somerville, M.A., Haque, N., Norgate, T.E., Deev, A., Pan, Y., Xie, D., Ridgeway, P. and Zulli, P., Development of Low-Emission Integrated Steelmaking Process, J. Sustain. Metall., 2015, DOI 10.1007/s40831-015-0008-6.
