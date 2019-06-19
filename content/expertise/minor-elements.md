@@ -9,6 +9,9 @@ weight: 1
 
 Impurities in raw materials used in the production of metals can be valuable, toxic and hazardous or a nuisance. Current knowledge and understanding of the behaviour of many of the minor elements in high-temperature phases could be readily used to develop practices for managing the deportment of the minors elements to the phases. Recently, we have been successful in managing the extraction and safe disposal of naturally occurring radioactive materials found in Australian ores.
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NMOMSWE9pbtzka" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+[Presentation on Minor Element Management](https://www.slideshare.net/SharifJahanshahi/management-of-minor-elements)
+
 ## Research Highlights:
 
 - R.C. West, A.R. Gee, S. Sun and S. Jahanshahi; Removal of radioactive impurities from a copper ore or copper concentrate during or after smelting; Australian Patent, WO14/040,140, 2014.

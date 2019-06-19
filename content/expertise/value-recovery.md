@@ -10,6 +10,9 @@ weight: 1
 
 Processing of low-grade ores or by-products from other processes presents exciting challenges to the industry.  We have been involved in several collaborative R&D programs led by the indusry, which focuses on more sustainable processing of lower grade ores and residues produced by the minerals industry.  
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/33jnKxOJkgfbwp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+[Low Grade Ores - Smelt, Leach or Concentrate?](/www.slideshare.net/SharifJahanshahi/low-grade-ores-smelt-leach-or-concentrate-64883752)
+
 ## Research Highlights 
 
 - Norgate, T. E. and Jahanshahi, S.  (2010). Low grade ores - smelt, leach or concentrate? Minerals Engineering; 23 (2), 65-73. 

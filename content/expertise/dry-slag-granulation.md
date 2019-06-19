@@ -10,6 +10,9 @@ Granulation of molten metallurgical slags is a value-adding process that convert
 
 We have been active in this area for over a decade and have collaborated with the industry in both the development and assessment of technologies.  
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/goP6aLkeYQEmy3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+[Presentation on Dry Slag Granulation with Waste Heat Recovery](https://www.slideshare.net/SharifJahanshahi/dry-slag-granulation-with-waste-heat-recovery)
+
 ## Research Highlights
 
 - M. Barati and S. Jahanshahi; Dry Granulation and Heat Recovery from Metallurgical Slags; Proceedings of the 6th Slag Valorisation Symposium, 1-5 April, 2019, Mechelen, Belgium, 291-313.

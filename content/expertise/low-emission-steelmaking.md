@@ -8,6 +8,9 @@ draft: false
 
 This collaborative R&D program was aimed at the development of breakthrough technologies to enable the steel industry to cut its GHG emission by over 50%. We identified the most effective and economical methods for reducing the net CO2 emissions by 50% or more for the Australian steel industry.
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tFOHfKtMdmsgVY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+[Presentation on Low Emission Steelmaking Process](https://www.slideshare.net/SharifJahanshahi/lowemission-integrated-steelmaking-process)
+
 ## Research Highlights
 
 - Jahanshahi, S., Mathieson, J.G., Somerville, M.A., Haque, N., Norgate, T.E., Deev, A., Pan, Y., Xie, D., Ridgeway, P. and Zulli, P., (2015) Development of Low-Emission Integrated Steelmaking Process, J. Sustain. Metall., DOI 10.1007/s40831-015-0008-6.
