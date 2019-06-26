@@ -6,7 +6,7 @@ featured: true
 draft: false
 ---
 
-This includes research covering the thermodynamics of melts, transport properties of slags and the structure and physicochemical properties of slags.
+Physicochemical properties of melts play a crucial role in the performance of pyrometallurgical processes. Our knowledge of thermodynamic properties of melts have advanced considerably over the past a few decades.  Similarly, the knowledge on some transport properties such as viscosity and diffusivity has developed progressively. There are many gaps in the knowledge and understanding of other properties of melts, such as interfacial behaviour and structural properties of melts.
 
 ## Research Highlights
 

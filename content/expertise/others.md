@@ -2,7 +2,7 @@
 title: 'Others'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/default.png'
-featured: true
+featured: false
 draft: false
 ---
 
@@ -37,5 +37,3 @@ draft: false
 - Jahanshahi, S., Wright, S., and Somerville, M. A. (1994). Continuous converting of copper matte using calcium ferrite slag. In: 6th AusIMM Extractive Metallurgy Conference, 89-94.
 
 - Jahanshahi, S. (1993). Overview of the Melt Chemistry Research and Training Program at the GK Williams Cooperative Research Centre for Extractive Metallurgy. In: APCChE & Chemeca 93. Official Proceedings, 341-345.
-
-- Jahanshahi, S and Belton, G.R. Metal/slag phosphorus equilibria and kinetics of phosphorus transfer in oxygen steelmaking. Process Technology Proceedings of 5th Intl Iron & Steel Congress, Washington D.C., 1986, pp. 641-651 (ISS-AIME).

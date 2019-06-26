@@ -55,4 +55,6 @@ Fundamental studies on the kinetics of reactions between carbonaceous reactants 
 
 - Jahanshahi, S., and Wright, S. (1992). Studies on the reduction kinetics of metallurgical lead slags. In: 4th International Conference of Molten Slags and Fluxes, 572-577.
 
-- Jahanshahi, S., and Player, R. L. (1989). Process chemistry studies of the ISASMELT lead reduction process. In: Non-Ferrous Smelting Symposium, pp.33-40. 
+- Jahanshahi, S., and Player, R. L. (1989). Process chemistry studies of the ISASMELT lead reduction process. In: Non-Ferrous Smelting Symposium, 33-40. 
+
+- Jahanshahi, S and Belton, G.R. Metal/slag phosphorus equilibria and kinetics of phosphorus transfer in oxygen steelmaking. Process Technology Proceedings of 5th Intl Iron & Steel Congress, Washington D.C., 1986, 641-651 (ISS-AIME).

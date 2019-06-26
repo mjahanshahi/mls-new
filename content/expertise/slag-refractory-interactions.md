@@ -6,6 +6,7 @@ featured: true
 draft: false
 ---
 
+The reactors in high-temperature processes are lined with refractory materials, and the service life of these refractories are strongly dependent on their corrosion and erosion rates. In most cases, the corrosion rate of refractories is controlled by the interactions between the molten slag and refractory material. These interactions are dependent on the solubility of refractories in slags, transport properties in the slag as well as interfacial reaction, including wetting and infiltration of refractory pores with molten slag.
 
 ## Research Highlights
 
